@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkren_cli_site=self.webpackChunkren_cli_site||[]).push([[9],{11894:function(f,n,e){e.r(n),e.d(n,{default:function(){return s}});var t=e(41463),r=e(58757),o=function(){var u=(0,t.UO)(),d=u.id,m=(0,t.WF)(),c=m.demos,i=c[d]||{},a=i.component;return a&&(0,r.createElement)(a)},s=o}}]);
